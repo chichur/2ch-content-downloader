@@ -1,0 +1,19 @@
+{
+  "name": "Valera",
+
+  
+   "description": "2ch content downloader",
+ 
+ 
+   "version": "22.8",
+  "permissions": ["contextMenus","downloads", "<all_urls>"],
+
+  "icons": { "16": "icon16.png",
+           "48": "icon48.png",
+          "128": "icon128.png" },
+  
+   "background": {
+    "scripts": ["sample.js"]
+  },
+  "manifest_version": 2
+}
